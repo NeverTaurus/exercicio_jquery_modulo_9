@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+header{
+    padding: 1%;
+    background-color: purple;
+    height: 100%;
+    color: white;
+}
+
+form , input, ul {
+    margin-top: 3%;
+}
+
+ul , button {
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+li{
+    margin-top: 1%;
+}
+
+
+
